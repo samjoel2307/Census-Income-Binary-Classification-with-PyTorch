@@ -86,21 +86,4 @@ Using the required configuration and random seed:
 - **Test Loss:** approximately `0.2670`
 - **Test Accuracy:** approximately `88.02%`
 
-## GitHub Upload
 
-After creating a GitHub repository, upload the complete project folder or use Git:
-
-```bash
-git init
-git add .
-git commit -m "Add Census Income neural network workshop"
-git branch -M main
-git remote add origin YOUR_GITHUB_REPOSITORY_URL
-git push -u origin main
-```
-
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your own GitHub repository URL.
-
-## Workshop Title
-
-**Binary Classification with Neural Networks on the Census Income Dataset**
